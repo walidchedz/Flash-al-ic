@@ -1,0 +1,6 @@
+saas/
+ ├── backend/        (FastAPI)
+ ├── frontend/       (HTML SaaS Dashboard)
+ ├── android/        (Hardware Bridge)
+ ├── requirements.txt
+ ├── README.md
